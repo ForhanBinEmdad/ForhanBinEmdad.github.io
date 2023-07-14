@@ -1,9 +1,3 @@
----
-
-
-
----
-
 Education
 ======
 * Ph.D in Information, Florida State University, 2025 (expected)
