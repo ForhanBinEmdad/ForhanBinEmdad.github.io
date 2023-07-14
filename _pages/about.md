@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a third-year Ph.D. student from Department of Computer Science at [Florida State University](https://www.fsu.edu/), advised by Prof. Zhe He who leads eHealth lab. Before that, I received M.S. degree from the University of Maryland, Baltimore County (UMBC) in Information Systems with Health Informatics concentration. 
+I am currently a third-year Ph.D. student from the School of Information Science at [Florida State University](https://www.fsu.edu/) (FSU), advised by [Prof. Zhe He](https://directory.cci.fsu.edu/zhe-he/), who leads [eHealth](https://ehealthlab.cci.fsu.edu/) lab. Before that, I received M.S. degree from the [University of Maryland, Baltimore County](https://informationsystems.umbc.edu/) (UMBC) in Information Systems with Health Informatics concentration. 
 
 Research Interest
 ======
