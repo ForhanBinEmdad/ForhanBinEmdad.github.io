@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Towards Interpretable Multimodal Predictive Models for Early Mortality Prediction of Hemorrhagic Stroke Patients"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+date: 2023-06-16
+venue: 'AMIA Summits on Translational Science Proceedings'
+paperurl: 'http://forhanbinemdad.github.io/files/mp_hemor.pdf'
+citation: 'Emdad, F. B., Tian, S., Nandy, E., Hanna, K., & He, Z. (2023). Towards Interpretable Multimodal Predictive Models for Early Mortality Prediction of Hemorrhagic Stroke Patients. AMIA Summits on Translational Science Proceedings, 2023, 128.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+This paper is about the mortality prediction of hemorrhagic stroke patients.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](http://forhanbinemdad.github.io/files/mp_hemor.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Emdad, F. B., Tian, S., Nandy, E., Hanna, K., & He, Z. (2023). Towards Interpretable Multimodal Predictive Models for Early Mortality Prediction of Hemorrhagic Stroke Patients. AMIA Summits on Translational Science Proceedings, 2023, 128.
