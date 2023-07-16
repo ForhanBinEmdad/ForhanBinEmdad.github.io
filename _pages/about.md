@@ -18,4 +18,5 @@ News
 ======
 **July 2023:** One paper is accepted by ACM BCB.<br>
 **June 2023:** One paper is accepted by Business Information Review Journal. <br>
+**April 2023:** One paper is accepted by AMCIS 2023.
 **Jan. 2023:** One paper is accepted by AMIA Informatics Summit 2023.
