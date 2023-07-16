@@ -7,11 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-**Teaching Assistant at School of Information, Florida State University**, June 2021 - Present
--Courses: Web Development, Introduction to Health Informatics
-**Research Assistant at Department of Biomedical and Health Informatics, University of Wisconsin-Milwaukee**, Feb 2021 - May 2021
-**Teaching Assistant at Information Systems Department, UMBC June** 2020 - December 2020
-**Research Assistant, UMBC Health IT Lab**, June 2018 - June 2020
+**Teaching Assistant at School of Information, Florida State University**, June 2021 - Present 
+-Courses: Web Development, Introduction to Health Informatics <Br>
+**Research Assistant at Department of Biomedical and Health Informatics, University of Wisconsin-Milwaukee**, Feb 2021 - May 2021 <Br>
+**Teaching Assistant at Information Systems Department, UMBC June** 2020 - December 2020 <Br>
+**Research Assistant, UMBC Health IT Lab**, June 2018 - June 2020 <Br>
 **Infrastructure Associate at Accenture**, May 2015 - Nov 2017
   
 Services
