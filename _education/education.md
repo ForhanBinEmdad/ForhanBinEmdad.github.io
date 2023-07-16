@@ -1,7 +1,6 @@
 
 ---
 title: "Education"
-permalink: /Education/
 permalink: /education/education
 
 ---
