@@ -16,4 +16,5 @@ Trustworthy AI, Explainable AI, Fair AI, Ethical AI, Application of LLM in Healt
 
 News
 ======
-
+**July 2023:** One paper is accepted by ACM BCB.
+**June 2023:** One paper is accepted by Business Information Review Journal.
