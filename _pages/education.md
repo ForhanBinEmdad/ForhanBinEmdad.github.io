@@ -1,9 +1,8 @@
 ---
 layout: archive
 title: "Education"
-permalink: /Education/
+permalink: /education/
 author_profile: true
-
 ---
 
 {% include base_path %}
